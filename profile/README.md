@@ -4,7 +4,7 @@
 **19기**
 | <a href="https://github.com/jeinie"><img src="https://avatars.githubusercontent.com/u/68533847?v=4" width="90" height="90"></a> | <a href="https://github.com/jueun0725"><img src="https://avatars.githubusercontent.com/u/82727761?v=4" width="90" height="90"></a> | <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="90" height="90"></a> |
 | ----- | ----- | ----- |
-| [장정윤](https://github.com/jeinie) | [김주은](https://github.com/jueun0725) | [김준성](https://github.com/newJunsung) |
+| [장정윤(대장님)](https://github.com/jeinie) | [김주은](https://github.com/jueun0725) | [김준성](https://github.com/newJunsung) |
 
 **20기**
 | <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/YJMINT"><img src="https://avatars.githubusercontent.com/u/105741144?v=4" width="90" height="90"></a> | <a href="https://github.com/S-DPR"><img src="https://avatars.githubusercontent.com/u/108619579?v=4" width="90" height="90"></a> | <a href="https://github.com/YoonhyeSuh"><img src="https://avatars.githubusercontent.com/u/106311524?v=4" width="90" height="90"></a> | <a href="https://github.com/juniii99"><img src="https://avatars.githubusercontent.com/u/112378363?v=4" width="90" height="90"></a> | 
