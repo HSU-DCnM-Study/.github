@@ -15,3 +15,9 @@
 | <a href="https://github.com/isnonyou"><img src="https://avatars.githubusercontent.com/u/109057475?v=4" width="90" height="90"></a> | <a href="https://github.com/krevlin"><img src="https://avatars.githubusercontent.com/u/109061978?v=4" width="90" height="90"></a> |
 | ----- | ----- |
 | [이서원](https://github.com/isnonyou) | [권영현](https://github.com/krevlin) |
+
+
+### Rule
+1. 깃허브는 자유롭게 사용하되, 소중히 사용하자
+2. 싸우지 말자.
+3. 내부에서 일어나는 이벤트들을 밖에 함부로 말하지 말자. 그것이 좋은 일이든, 나쁜 일이든 간에
