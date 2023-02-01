@@ -1,4 +1,4 @@
-## We are DC&M!
+# We are DC&M!
 
 ## :four_leaf_clover:Member
 **19기**
