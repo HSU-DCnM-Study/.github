@@ -30,8 +30,6 @@
 | ----- | ----- | ----- | ----- |
 | [임수미](https://github.com/sumi-03) | [조은](https://github.com/silverzzo) | x | x |
 
-// TODO : 이재민, 정유정
-
 ### Rule
 1. 깃허브는 자유롭게 사용하되, 소중히 사용하자
 2. 싸우지 말자.
