@@ -12,10 +12,11 @@
 | [오인성](https://github.com/ois0886) | [정윤주](https://github.com/YJMINT) | [추영광](https://github.com/S-DPR) | [서윤혜](https://github.com/YoonhyeSuh) | [박준이](https://github.com/juniii99) | 
 
 **21기**
-| <a href="https://github.com/isnonyou"><img src="https://avatars.githubusercontent.com/u/109057475?v=4" width="90" height="90"></a> | <a href="https://github.com/krevlin"><img src="https://avatars.githubusercontent.com/u/109061978?v=4" width="90" height="90"></a> |
-| ----- | ----- |
-| [이서원](https://github.com/isnonyou) | [권영현](https://github.com/krevlin) |
+| <a href="https://github.com/isnonyou"><img src="https://avatars.githubusercontent.com/u/109057475?v=4" width="90" height="90"></a> | <a href="https://github.com/krevlin"><img src="https://avatars.githubusercontent.com/u/109061978?v=4" width="90" height="90"></a> | <a href="https://github.com/sumi-03"><img src="https://avatars.githubusercontent.com/u/100473912?v=4" width="90" height="90"></a> |
+| ----- | ----- | ----- |
+| [이서원](https://github.com/isnonyou) | [권영현](https://github.com/krevlin) | [임수미](https://github.com/sumi-03)
 
+// TODO : 이재민, 
 
 ### Rule
 1. 깃허브는 자유롭게 사용하되, 소중히 사용하자
