@@ -1,5 +1,10 @@
 # We are DC&M!
 
+## 사용법
+동아리에서 진행하는 스터디 혹은 프로젝트들을 모아 놓는 우리들만의 Git Organization 입니다.<br>
+각자 원하는 스터디 혹은 프로젝트가 있다면 자유롭게 레포를 만들면 됩니다.<br>
+4학년까지 수료를 했거나 혹은 개인 사정으로 인한 탈퇴는 이름을 남겨 두겠으나, 활동을 소홀히하여 퇴출당한 인원의 이름은 지우겠습니다.<br>
+
 ## :four_leaf_clover:Member
 **19기**
 | <a href="https://github.com/jeinie"><img src="https://avatars.githubusercontent.com/u/68533847?v=4" width="90" height="90"></a> | <a href="https://github.com/jueun0725"><img src="https://avatars.githubusercontent.com/u/82727761?v=4" width="90" height="90"></a> | <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="90" height="90"></a> |
