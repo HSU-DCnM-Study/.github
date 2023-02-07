@@ -22,7 +22,7 @@
 | ----- | ----- | ----- |
 | [이서원](https://github.com/isnonyou) | [권영현](https://github.com/krevlin) | [임수미](https://github.com/sumi-03)
 
-// TODO : 이재민, 
+// TODO : 이재민, 정유정
 
 ### Rule
 1. 깃허브는 자유롭게 사용하되, 소중히 사용하자
